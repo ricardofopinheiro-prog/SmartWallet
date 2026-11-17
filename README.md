@@ -8,7 +8,7 @@ Projeto Android nativo em Kotlin + Jetpack Compose, preparado para abrir no Andr
 - Android SDK 35
 
 ## Como abrir
-1. Extrair o ZIP.
+1. 1. Fazer clone do repositório: `git clone https://github.com/ricardofopinheiro-prog/SmartWallet.git`
 2. Abrir a pasta `SmartWallet` no Android Studio.
 3. Aguardar a sincronização do Gradle.
 4. Ligar um telemóvel Android com depuração USB ou criar um emulador.
