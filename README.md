@@ -8,14 +8,14 @@ Projeto Android nativo em Kotlin + Jetpack Compose, preparado para abrir no Andr
 - Android SDK 35
 
 ## Como abrir
-1. 1. Fazer clone do repositório: `git clone https://github.com/ricardofopinheiro-prog/SmartWallet.git`
+1. Fazer clone do repositório: `git clone https://github.com/ricardofopinheiro-prog/SmartWallet.git`
 2. Abrir a pasta `SmartWallet` no Android Studio.
 3. Aguardar a sincronização do Gradle.
 4. Ligar um telemóvel Android com depuração USB ou criar um emulador.
 5. Carregar em **Run**.
 
 ## O que esta primeira versão já inclui
-- Dashboard com saldo, rendimentos e despesas do mês.
+- Dashboard com saldo, rendimentos e despesas totais.
 - Registo de rendimentos e despesas.
 - Categorias e descrição dos movimentos.
 - Histórico de movimentos.
